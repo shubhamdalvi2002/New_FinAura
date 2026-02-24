@@ -1,0 +1,5 @@
+{
+  "name": "FinAura Capital",
+  "description": "Premium investment advisory services for long-term wealth building, led by Shubham Vilas Dalvi.",
+  "requestFramePermissions": ["geolocation"]
+}
